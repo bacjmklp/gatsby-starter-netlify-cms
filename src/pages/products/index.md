@@ -6,14 +6,20 @@ title: Resources
 image: /img/dscf2546.jpg
 description: Coming...
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/bur-oak-acorn.jpg
+      text: Coming
+    - image: /img/bur-oak-acorn.jpg
+      text: Coming
+    - image: /img/bur-oak-acorn.jpg
+      text: Coming
   heading: Coming...
-  description: |+
-
+  description: |
+    soon
 main:
   heading: Great content with no compromises
-  description: |+
-
+  description: |
+    coming
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/dscf6274.jpg
@@ -23,10 +29,21 @@ main:
   image3:
     alt: Coffee beans
     image: /img/bur-oak-acorn.jpg
-testimonials: []
+testimonials:
+  - quote: coming
+    author: soon
+  - quote: coming
+    author: soon
+  - quote: coming
+    author: soon
 full_image: /img/dscf6284.jpg
 pricing:
   heading: Affordably Available
   description: Coming soon
-  plans: []
+  plans:
+    - plan: coming
+      price: soon
+      description: coming
+      items:
+        - soon
 ---
