@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: FaithFully Educated
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/dscf6284.jpg
+heading: Only the strategic arrive
+subheading: Earthly & Eternal Significance for Christian Schools & Families
 mainpitch:
   title: Why Kaldi
   description: >
