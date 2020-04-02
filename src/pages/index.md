@@ -12,7 +12,8 @@ description: 'If only effort and enthusiasm got us to where we wanted to go. '
 intro:
   blurbs:
     - image: /img/bur-oak-acorn.jpg
-      text: Coming
+      text: |
+        Coming
   heading: Coming soon
   description: >
     Curated and created content for Christian school leaders, teachers, parents,
