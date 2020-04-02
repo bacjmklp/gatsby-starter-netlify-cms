@@ -1,22 +1,19 @@
 ---
-heading: Outfitting Invested Educators
+heading: 'Outfitting Educators, Parents, and Students'
 path: /products
 templateKey: product-page
 title: Resources
 image: /img/dscf2546.jpg
-description: Coming soon
+description: Coming...
 intro:
   blurbs: []
-  heading: What we offer
+  heading: Coming...
   description: |+
 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Great content with no compromises
+  description: |+
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
