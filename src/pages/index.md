@@ -3,7 +3,7 @@ templateKey: index-page
 title: FaithFully Educated
 image: /img/dscf6284.jpg
 heading: Only the strategic arrive.
-subheading: Earthly & Eternal Significance for Christian Schools & Families
+subheading: Empowering Christian Schools & Families
 mainpitch:
   title: Vision fuels.
   description: |
