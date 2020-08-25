@@ -3,25 +3,19 @@ templateKey: index-page
 title: FaithFully Educated
 image: /img/dscf6284.jpg
 heading: Only the strategic arrive.
-subheading: Empowering Christian Schools and Families
+subheading: >-
+  Empowering the next generation to Learn Themselves, Love God, and Live
+  Connected
 mainpitch:
   title: Vision fuels.
   description: |
     Belief drives.
 description: >-
   If only effort and enthusiasm guaranteed success. While helpful, these are
-  insufficient. Here you'll find strategies to lead and teach the next
-  generation to Learn Themselves, Love God, and Live Connected.
+  insufficient. Leaders, teachers, and parents need strategies based on sense,
+  science, and Scripture. At FaithFully Educated, you'll find these resources.
 intro:
-  blurbs:
-    - image: /img/bur-oak-acorn.jpg
-      text: |
-        Coming
-    - image: /img/bur-oak-acorn.jpg
-      text: Coming
-    - image: /img/bur-oak-acorn.jpg
-      text: |
-        Coming
+  blurbs: []
   heading: Heading
   description: >
     Original and curated content for Christian school leaders, teachers,
