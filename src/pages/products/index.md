@@ -5,10 +5,6 @@ templateKey: product-page
 title: Resources
 image: /img/mcbaine-bur-oak-tree.jpg
 description: 'The First Great Commandment made real, relevant, and rich!'
-intro:
-  blurbs: []
-  heading: Draft
-  description: |-
 
     Draft
 main:
@@ -28,12 +24,7 @@ main:
   image3:
     alt: Draft
     image: /img/bur-oak-acorn.jpg
-testimonials:
-  - quote: Draft
-    author: Draft
-full_image: /img/bur-oak-acorn.jpg
 pricing:
   heading: Draft
   description: Draft
-  plans: []
 ---
